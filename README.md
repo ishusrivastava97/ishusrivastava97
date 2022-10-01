@@ -1,3 +1,4 @@
+![logo](https://github.com/ishusrivastava97/ishusrivastava97/blob/main/photo_2022-10-01_10-48-48.jpg)
 <h1 align="center">Hi 👋, I'm ishu srivastava</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.stpatrickscollege.edu.pk/Images/Others-pictures/computer.gif" >
